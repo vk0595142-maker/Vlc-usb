@@ -1,0 +1,24 @@
+{
+  "paging": { "page": 1, "count": 1, "maxPage": 1, "itemsTotal": 1 },
+  "packages": [
+    {
+      "id": "com.usbplayer.app",
+      "title": "USB Player",
+      "iconUri": "https://raw.githubusercontent.com/GITHUB_USER/REPO/main/icon.png",
+      "manifest": {
+        "id": "com.usbplayer.app",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "USB Player",
+        "appDescription": "Simple video player for movies on a USB drive, with playlist, subtitles and resume.",
+        "iconUri": "https://raw.githubusercontent.com/GITHUB_USER/REPO/main/icon.png",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/GITHUB_USER/REPO/main/com.usbplayer.app_1.0.0_all.ipk",
+        "ipkHash": { "sha256": "f09dbf8503932c4bb8e2e012992095e082cfa50ac570216ab0bb9c7fad511abf" },
+        "ipkSize": 7230
+      },
+      "pool": "main",
+      "shortDescription": "Play movies from a USB drive."
+    }
+  ]
+}
